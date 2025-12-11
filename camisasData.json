@@ -1,0 +1,66 @@
+[
+    {
+        "nome": "Tottenham 25/26 - Titular",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "Premiere League",
+        "available": false,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/10/Imagem-do-WhatsApp-de-2025-10-03-as-09.46.07_a099fe15-e1759498109527.jpg"
+    },
+    {
+        "nome": "Real Madrid 25/26 - Titular",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "La Liga",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/02/1a010c4a-800x800-1.jpg"
+    },
+    {
+        "nome": "Liverpool 25/26 - Manga Longa",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "Premiere League",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/08/Liverpool-Titular-25-26-Manga-Longa-800x800-1.jpg"
+    },
+    {
+        "nome": "Chelsea 25/26 - Titular",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "Premiere League",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/06/45843445-800x800-1.jpg"
+    },
+    {
+        "nome": "Galo 25/26 - Reserva",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "Brasilleirão",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/06/5b047031-800x800-1.jpg"
+    },
+    {
+        "nome": "Vasco 25/26 - Titular",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "Brasilleirão",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/08/52e083bc-scaled-e1755181972901.jpeg"
+    },
+    {
+        "nome": "Barcelona 25/26 - Titular",
+        "preco": "349,99",
+        "categoria": "Camisa",
+        "filtro": "La Liga",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/04/1336aa97-800x800-1.jpeg"
+    },
+    {
+        "nome": "Manchester United 25/26 - Titular",
+        "preco": "349,99",
+        "produto": "Camisa",
+        "filtro": "Premiere League",
+        "available": true,
+        "imagem": "https://pedidoatacado.com/wp-content/uploads/2025/08/IMG_0356.JPEG-800x800-1.jpg"
+    }
+]

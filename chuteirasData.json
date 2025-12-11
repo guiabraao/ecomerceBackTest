@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "Nike Mercurial 16",
+    "preco": "699,90",
+    "categoria": "Chuteira",
+    "filtro": "Nike",
+    "available": true,
+    "imagem": "https://imgnike-a.akamaihd.net/360x360/059553P1A1.jpg"
+  },
+  {
+    "nome": "Nike Phantom GX II",
+    "preco": "590,90",
+    "categoria": "Chuteira",
+    "filtro": "Nike",
+    "available": true,
+    "imagem": "https://imgnike-a.akamaihd.net/360x360/0291727TA9.jpg"
+  },
+  {
+    "nome": "Nike Tiempo 10",
+    "preco": "899,90",
+    "categoria": "Chuteira",
+    "filtro": "Nike",
+    "available": true,
+    "imagem": "https://imgnike-a.akamaihd.net/360x360/02729116A1.jpg"
+  },
+  {
+    "nome": "Nike Mercurial 16",
+    "preco": "999,90",
+    "categoria": "Chuteira",
+    "filtro": "Nike",
+    "available": true,
+    "imagem": "https://imgnike-a.akamaihd.net/360x360/029427NXA1.jpg"
+  },
+  {
+    "nome": "Chuteira F50",
+    "preco": "899,90",
+    "categoria": "Chuteira",
+    "filtro": "Adidas",
+    "available": true,
+    "imagem": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/583ed18a2b484ee38222e5d4ca85fc55_9366/Chuteira_Sem_Cadarcos_F50_Elite_Campo_Roxo_JH7628_HM1.jpg"
+  },
+  {
+    "nome": "Chuteira F50",
+    "preco": "899,90",
+    "categoria": "Chuteira",
+    "filtro": "Adidas",
+    "available": true,
+    "imagem": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/1eb82bc423a3494fb622aa9791fdeed3_9366/Chuteira_F50_Elite_Firm_Ground_Laranja_JH7618_HM1.jpg"
+  },
+  {
+    "nome": "PREDATOR Tongue BWR",
+    "preco": "699,90",
+    "categoria": "Chuteira",
+    "filtro": "Adidas",
+    "available": true,
+    "imagem": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a7110c3712a84f9eaa99fe29665b0ebb_9366/Chuteiras_Predator_Elite_Lingua_Dobravel_chuteira_de_campo_BWR_Preto_JH9258_HM1.jpg"
+  },
+  {
+    "nome": "PREDATOR Tongue Beckham",
+    "preco": "699,90",
+    "categoria": "Chuteira",
+    "filtro": "Adidas",
+    "available": false,
+    "imagem": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/d3bf2eb5f21544a881638940052b0c51_9366/Chuteira_PREDATOR_ELITE_Fold-Over_Tongue_Firm_Ground_Football_Beckham_Rosa_JI1094_HM1.jpg"
+  },
+  {
+    "nome": "Nike Mercurial 16",
+    "preco": "1999,90",
+    "categoria": "Chuteira",
+    "filtro": "Nike",
+    "available": true,
+    "imagem": "https://imgnike-a.akamaihd.net/360x360/080109P1A7.jpg"
+  },
+  {
+    "nome": "Nike Mercurial 16",
+    "preco": "1999,90",
+    "categoria": "Chuteira",
+    "filtro": "Nike",
+    "available": true,
+    "imagem": "https://imgnike-a.akamaihd.net/360x360/080109P1A7.jpg"
+  }
+]

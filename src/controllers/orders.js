@@ -1,0 +1,48 @@
+import OrderDataAccess from "../dataAccess/orders.js"
+import { ok, serverError } from '../helpers/httpResponse.js'
+
+export default class OrdersControllers {
+    constructor() {
+        this.dataAccess = new OrderDataAccess()
+    }
+
+    async getOrders() {
+        try{
+            const orders = await this.dataAccess.getOrders()
+
+            return ok(orders)
+        } catch (error) {
+            return serverError(error)
+        }
+    }
+
+    async addOrders(orderData) {
+        try{
+            const result = await this.dataAccess.addOrder(orderData)
+
+            return ok(result)
+        } catch (error) {
+            return serverError(error)
+        }
+    }
+
+    async deleteOrders(orderId) {
+        try{
+            const result = await this.dataAccess.deletOrders(orderId)
+
+            return ok(result)
+        } catch (error) {
+            return serverError(error)
+        }
+    }
+
+    async updateOrders(orderId, orderData) {
+        try{
+            const result = await this.dataAccess.updateOrders(orderId, orderData)
+
+            return ok(result)
+        } catch (error) {
+            return serverError(error)
+        }
+    }
+}
